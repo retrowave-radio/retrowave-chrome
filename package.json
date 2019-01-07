@@ -1,0 +1,13 @@
+{
+  "name": "retrowave-chrome",
+  "version": "0.1.0",
+  "description": "Browser extension for retrowave.ru",
+  "license": "GPL-3.0-only",
+  "author": "Andrey Kravtsov <raidendev@gmail.com>",
+  "homepage": "https://github.com/retrowave-radio/retrowave-chrome",
+  "bugs": "https://github.com/retrowave-radio/retrowave-chrome/issues",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:retrowave-radio/retrowave-chrome.git"
+  }
+}
