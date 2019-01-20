@@ -1,8 +1,9 @@
 {
   "manifest_version": 2,
   "name": "Retrowave Radio",
-  "description": "Click for next/start; Double click for play/pause",
   "version": "0.1.0",
+  "description": "Click for next/start; Double click for play/pause",
+  "author": "Andrey Kravtsov <raidendev@gmail.com>",
   "background": {
     "scripts": [
       "src/background.js"
